@@ -1,4 +1,6 @@
-### Olá, Mundo! Eu sou a Ana, estudante de desenvolvimento web, bem vindxs ao meu Github :D 
+### Olá, Mundo! Eu sou a Ana, estudante de desenvolvimento web, bem vindx's ao meu Github :D 
+
+##
 <div align="center">
   <a href="https://github.com/anacirqueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacirqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
